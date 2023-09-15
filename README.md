@@ -1,6 +1,8 @@
-### Hi there 👋
+### Jambo  👋
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babu97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **babu97/babu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
