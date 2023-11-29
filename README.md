@@ -1,4 +1,4 @@
-Jambo  👋 my name  is Ben Kaimogul though i preffer being called Babu   a swahili name I love. 
+Jambo  👋 my name  is Ben Kaimogul or call me Babu a swahili name I love. 
 I am currently looking for opportunities  in Devops  and Python web  Development.
 - 👯 I’m looking to collaborate on
 - Python
