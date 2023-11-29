@@ -1,4 +1,17 @@
-### Jambo  👋
+### Jambo  👋 my name  is Ben Kaimogul though i preffer being called Babu   a swahili name 
+I love. 
+I am currently looking for opportunities  in Devops  and Python web  Development.
+- 👯 I’m looking to collaborate on
+- Python
+- DevOps
+- Infrastructure Automation
+- CI/CD pipelines
+- Django
+- flask
+- FastAPI
+- 🌱 I’m currently learning ...
+- JavaScript
+- React
 
 ### :fire: My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babu97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
